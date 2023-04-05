@@ -16,9 +16,7 @@ main()
 	
 	if (strcmp(email,email1)==0 && strcmp(pass,pass1)==0 )
 	{
-		
 			printf("Login Successfully");
-		
 	}
 	else
 		{
